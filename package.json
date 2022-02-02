@@ -6,12 +6,11 @@
   "description": "Personal meme-fetcher site",
   "version": "0.1.0",
   "files": [
-    "index_bg.wasm",
-    "index.js",
-    "index_bg.js",
-    "index.d.ts"
+    "memit_bg.wasm",
+    "memit.js",
+    "memit.d.ts"
   ],
-  "module": "index.js",
-  "types": "index.d.ts",
+  "module": "memit.js",
+  "types": "memit.d.ts",
   "sideEffects": false
 }
