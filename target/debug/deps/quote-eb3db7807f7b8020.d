@@ -1,0 +1,13 @@
+/home/helium/Vault/code/wasmrusty/memit/target/debug/deps/quote-eb3db7807f7b8020.rmeta: /home/helium/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.15/src/lib.rs /home/helium/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.15/src/ext.rs /home/helium/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.15/src/format.rs /home/helium/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.15/src/ident_fragment.rs /home/helium/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.15/src/to_tokens.rs /home/helium/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.15/src/runtime.rs /home/helium/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.15/src/spanned.rs
+
+/home/helium/Vault/code/wasmrusty/memit/target/debug/deps/libquote-eb3db7807f7b8020.rlib: /home/helium/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.15/src/lib.rs /home/helium/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.15/src/ext.rs /home/helium/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.15/src/format.rs /home/helium/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.15/src/ident_fragment.rs /home/helium/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.15/src/to_tokens.rs /home/helium/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.15/src/runtime.rs /home/helium/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.15/src/spanned.rs
+
+/home/helium/Vault/code/wasmrusty/memit/target/debug/deps/quote-eb3db7807f7b8020.d: /home/helium/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.15/src/lib.rs /home/helium/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.15/src/ext.rs /home/helium/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.15/src/format.rs /home/helium/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.15/src/ident_fragment.rs /home/helium/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.15/src/to_tokens.rs /home/helium/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.15/src/runtime.rs /home/helium/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.15/src/spanned.rs
+
+/home/helium/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.15/src/lib.rs:
+/home/helium/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.15/src/ext.rs:
+/home/helium/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.15/src/format.rs:
+/home/helium/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.15/src/ident_fragment.rs:
+/home/helium/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.15/src/to_tokens.rs:
+/home/helium/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.15/src/runtime.rs:
+/home/helium/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.15/src/spanned.rs:
